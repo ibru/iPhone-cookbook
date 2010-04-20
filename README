@@ -1,0 +1,7 @@
+iPhone Cookbook App
+
+This App is part of my bachelor thesis where I am supposed to create iPhone application searching for recipes from remote server.
+
+It can brose recipes online, store them to local database, create grocery list and some additional features.
+
+App is build on top of three20 framework.
